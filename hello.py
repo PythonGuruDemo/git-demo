@@ -1,1 +1,1 @@
-print("This is an awsome git tutorial")
+print("This is an awesome git tutorial")
